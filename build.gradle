@@ -4,7 +4,7 @@ plugins {
     id "org.jetbrains.kotlin.jvm" version "1.4.0"
 }
 
-group = "com.bosch.onsite"
+group = "com.grushevskyi"
 version = "0.0.1-SNAPSHOT"
 sourceCompatibility = JavaVersion.VERSION_1_8
 
