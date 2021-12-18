@@ -1,4 +1,4 @@
-# Coding Challenge: Clinic Manager
+# Clinic Manager
 
 This project delivers a REST API for a Clinic CRM.
 It provides the following features ...
@@ -38,7 +38,7 @@ There is a single service layer class AppointmentService.
 This class does input validation and coordinates CRUD actions via repository classes
 
 ## Repository layer.
-According to the task specification, the project does not connect to a real DB, but rather 
+The project does not connect to a real DB, but rather 
 uses in-memory repositories. It contains some mock data for doctors and patients.
 
 ## Notes 
