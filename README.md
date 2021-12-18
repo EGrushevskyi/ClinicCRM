@@ -37,7 +37,7 @@ A single controller with 3 endpoints is created.
 There is a single service layer class AppointmentService.
 This class does input validation and coordinates CRUD actions via repository classes
 
-## Repository layer.
+## Repository layer
 The project does not connect to a real DB, but rather 
 uses in-memory repositories. It contains some mock data for doctors and patients.
 
